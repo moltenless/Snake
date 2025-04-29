@@ -3,6 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+
 # User-specific files
 *.rsuser
 *.suo
@@ -29,6 +30,10 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
+<<<<<<< HEAD
+=======
+[Oo]ut/
+>>>>>>> master
 [Ll]og/
 [Ll]ogs/
 
@@ -296,6 +301,7 @@ node_modules/
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
 
+
 # Visual Studio 6 auto-generated project file (contains which files were open etc.)
 *.vbp
 
@@ -306,6 +312,7 @@ node_modules/
 # Visual Studio 6 technical files
 *.ncb
 *.aps
+
 
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
@@ -366,6 +373,7 @@ ASALocalRun/
 # Visual Studio History (VSHistory) files
 .vshistory/
 
+
 # BeatPulse healthcheck temp database
 healthchecksdb
 
@@ -376,6 +384,7 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
+
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
